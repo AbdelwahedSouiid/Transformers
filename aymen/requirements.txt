@@ -6,3 +6,4 @@ datasets
 scikit-learn
 seaborn
 matplotlib
+kaggle

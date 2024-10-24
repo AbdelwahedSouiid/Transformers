@@ -1,9 +1,0 @@
-pandas
-numpy
-torch
-transformers
-datasets
-scikit-learn
-seaborn
-matplotlib
-kaggle
